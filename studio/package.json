@@ -1,0 +1,23 @@
+{
+  "name": "typescript-lc101-projects-studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsc index.ts && node index.js",
+    "delete:js": "rm *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LifelongLearner13/typescript-lc101-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LifelongLearner13/typescript-lc101-projects/issues"
+  },
+  "homepage": "https://github.com/LifelongLearner13/typescript-lc101-projects#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
